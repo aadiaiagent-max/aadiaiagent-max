@@ -1,16 +1,33 @@
-## Hi there 👋
+# Aaditya · AI Agent / Platform Engineer
 
-<!--
-**aadiaiagent-max/aadiaiagent-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **agent runtimes, RAG systems, and LLM control planes** — the kind of infrastructure Forward Deployed and AI platform teams ship into real customer environments.
 
-Here are some ideas to get you started:
+📍 Remote (Canada) · targeting **Senior SWE · AI Agent · AI Platform · Forward Deployed** roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Repo | What it shows |
+| --- | --- |
+| [**agent-runtime**](https://github.com/aadiaiagent-max/agent-runtime) | Tool-calling agent loop, streaming events, memory, typed tools |
+| [**rag-platform**](https://github.com/aadiaiagent-max/rag-platform) | Chunk → embed → retrieve → answer + hit-rate evals |
+| [**llm-gateway**](https://github.com/aadiaiagent-max/llm-gateway) | Multi-provider routing, rate limits, usage logs, failover |
+| [**multi-agent-orchestrator**](https://github.com/aadiaiagent-max/multi-agent-orchestrator) | Supervisor/worker agents over a message bus |
+| [**agent-evals**](https://github.com/aadiaiagent-max/agent-evals) | Golden-path eval harness with scorers + datasets |
+
+## What I care about
+
+- **Agents you can operate** — explicit loops, events, tool policy, measurable evals
+- **Platform primitives** — gateways, retrieval, adapters customers can actually adopt
+- **Forward-deployed shape** — small surface area, strong READMEs, CI that runs offline
+
+## Stack
+
+TypeScript · Node · Vitest · GitHub Actions · LLM APIs / tool-calling · RAG
+
+## Links
+
+- GitHub: [aadiaiagent-max](https://github.com/aadiaiagent-max)
+
+---
+
+*"Make the agent loop boring and the product interesting."*
