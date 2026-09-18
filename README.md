@@ -23,6 +23,7 @@ Building **agent runtimes, RAG systems, and LLM control planes** — infrastruct
 | [**observability-kit**](https://github.com/aadiaiagent-max/observability-kit) | Structured logs, metrics, correlated traces |
 | [**platform-control-plane**](https://github.com/aadiaiagent-max/platform-control-plane) | Multi-tenant feature flags, kill switches, rollouts, audit log |
 | [**api-contract-kit**](https://github.com/aadiaiagent-max/api-contract-kit) | API contract definitions and breaking-change detection |
+| [**reliability-audit-skill**](https://github.com/aadiaiagent-max/reliability-audit-skill) | Coding-agent skill for multi-phase reliability audits with verified findings |
 
 ## Deploy readiness
 
